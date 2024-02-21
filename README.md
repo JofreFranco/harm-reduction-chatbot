@@ -26,6 +26,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 **This chatbot is a PoC and should not be relied upon as the sole source of information for harm reduction practices. Always consult with healthcare professionals and trusted sources for accurate information.**
 
---
+---
 
 This project is licensed under the MIT License.
