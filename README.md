@@ -4,7 +4,7 @@ The Harm Reduction Chatbot is a proof of concept (PoC) project designed to provi
 
 ## Features
 
-Provides information based on multiple trustworthy harm reduction sources.
+Provides information based on multiple trustworthy harm reduction sources, answering questions in a natural language.
 
 ## Installation
 
